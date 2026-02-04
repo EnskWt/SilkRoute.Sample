@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\bin\Debug\net8.0\SilkRoute.Sample.Contracts.deps.json
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\bin\Debug\net8.0\SilkRoute.Sample.Contracts.dll
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\bin\Debug\net8.0\SilkRoute.Sample.Contracts.pdb
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\obj\Debug\net8.0\SilkRoute.Sample.Contracts.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\obj\Debug\net8.0\SilkRoute.Sample.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\obj\Debug\net8.0\SilkRoute.Sample.Contracts.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\obj\Debug\net8.0\SilkRoute.Sample.Contracts.AssemblyInfo.cs
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\obj\Debug\net8.0\SilkRoute.Sample.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\obj\Debug\net8.0\SilkRoute.Sample.Contracts.dll
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\obj\Debug\net8.0\refint\SilkRoute.Sample.Contracts.dll
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\obj\Debug\net8.0\SilkRoute.Sample.Contracts.pdb
+C:\Users\MSI\source\repos\SilkRoute.Sample\SilkRoute.Sample.Contracts\obj\Debug\net8.0\ref\SilkRoute.Sample.Contracts.dll

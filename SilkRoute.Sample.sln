@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilkRoute.Sample.Contracts", "SilkRoute.Sample.Contracts\SilkRoute.Sample.Contracts.csproj", "{AAB00F56-B912-401E-81E5-F289B5E30F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilkRoute.Sample.BillingService.Api", "SilkRoute.Sample.BillingService.Api\SilkRoute.Sample.BillingService.Api.csproj", "{CCB4C8B9-D99E-42EE-9186-2B5BD4AE973B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilkRoute.Sample.SalesService.Api", "SilkRoute.Sample.SalesService.Api\SilkRoute.Sample.SalesService.Api.csproj", "{C47A8104-7646-422A-8EDB-FF2EE7A49845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB00F56-B912-401E-81E5-F289B5E30F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB00F56-B912-401E-81E5-F289B5E30F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB00F56-B912-401E-81E5-F289B5E30F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB00F56-B912-401E-81E5-F289B5E30F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB4C8B9-D99E-42EE-9186-2B5BD4AE973B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB4C8B9-D99E-42EE-9186-2B5BD4AE973B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB4C8B9-D99E-42EE-9186-2B5BD4AE973B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB4C8B9-D99E-42EE-9186-2B5BD4AE973B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47A8104-7646-422A-8EDB-FF2EE7A49845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47A8104-7646-422A-8EDB-FF2EE7A49845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47A8104-7646-422A-8EDB-FF2EE7A49845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47A8104-7646-422A-8EDB-FF2EE7A49845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
